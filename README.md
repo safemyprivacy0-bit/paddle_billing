@@ -1,5 +1,12 @@
 # PaddleBilling
 
+[![CI](https://github.com/safemyprivacy0-bit/paddle_billing/actions/workflows/ci.yml/badge.svg)](https://github.com/safemyprivacy0-bit/paddle_billing/actions/workflows/ci.yml)
+[![Hex.pm](https://img.shields.io/hexpm/v/paddle_billing.svg)](https://hex.pm/packages/paddle_billing)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-blue.svg)](https://hexdocs.pm/paddle_billing)
+![Elixir](https://img.shields.io/badge/Elixir-1.15%20%7C%201.17-purple)
+![OTP](https://img.shields.io/badge/OTP-26%20%7C%2027-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Elixir library for Paddle Billing API v2.
 
 Dual-write CRUD, two-way sync with drift detection, webhook verification, checkout flow, and installable admin panel.
